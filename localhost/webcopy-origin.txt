@@ -1,0 +1,688 @@
+Uri: http://localhost/ngemlak/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\index.htm
+Content Type: text/html
+
+Uri: http://localhost/ngemlak/about/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\about\index.htm
+Content Type: text/html
+
+Uri: http://localhost/ngemlak/comments/feed/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://localhost/ngemlak/contact/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\contact\index.htm
+Content Type: text/html
+
+Uri: http://localhost/ngemlak/feed/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://localhost/ngemlak/portfolio/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\portfolio\index.htm
+Content Type: text/html
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/ngemlak/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.7.6
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\css\wpforms-base.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=3.9.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/css/minified/galleries.min.css?ver=3.9.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\css\minified\galleries.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.9.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\css\minified\menu-animation.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: http://localhost/ngemlak/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.9.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/06/interior-design-solutions-logo-roboto.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\06\interior-design-solutions-logo-roboto.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/about-bg.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/about-owners-1-270x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\about-owners-1-270x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/about-owners-1-768x853.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\about-owners-1-768x853.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/about-owners-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\about-owners-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-2-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-2-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-2-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-3-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-3-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-3-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-4-1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-4-1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-4-1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-4-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-5-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-5-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/bedroom-5-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\bedroom-5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/contact-us-bg-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\contact-us-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/hero-bg-img-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\hero-bg-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/hero-img-1-300x265.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\hero-img-1-300x265.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/hero-img-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\hero-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-07-200x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-07-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-07.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-07.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-09-200x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-09-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-09.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-09.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-11-200x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-11-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/image-11.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\image-11.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/keith-keller-1-243x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\keith-keller-1-243x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/keith-keller-1-768x948.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\keith-keller-1-768x948.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/keith-keller-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\keith-keller-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-1-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-1-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-2-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-2-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-2-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-3-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-3-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-3-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-4-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-4-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-4-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-5-1-300x198.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-5-1-300x198.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/kitchen-5-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\kitchen-5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-2-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-2-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-2-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-3-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-3-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-3-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-4-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-4-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/office-4-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\office-4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-2-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-2-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-2-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-3-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-3-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-3-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-4-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-4-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-4-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-5-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-5-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-5-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2020/08/project-bg-img-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2020\08\project-bg-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2021/03/logo-1.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2021\03\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2021/03/logo-2.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2021\03\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2021/03/logo-3.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2021\03\logo-3.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2021/03/logo-4.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2021\03\logo-4.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2021/03/logo-5.svg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2021\03\logo-5.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2022/08/ng-120x88.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2022\08\ng-120x88.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/2022/08/ng.jpg
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\2022\08\ng.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/ngemlak/wp-content/uploads/elementor/css/post-1215.css?ver=1661769091
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\elementor\css\post-1215.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/uploads/elementor/css/post-1216.css?ver=1661770219
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\elementor\css\post-1216.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/uploads/elementor/css/post-1217.css?ver=1661770214
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\elementor\css\post-1217.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/uploads/elementor/css/post-15.css?ver=1661770221
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-content/uploads/elementor/css/post-682.css?ver=1661768553
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-content\uploads\elementor\css\post-682.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://localhost/ngemlak/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-includes/js/wp-util.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://localhost/ngemlak/wp-json/
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2F
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fabout%2F
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fportfolio%2F
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fngemlak%2Fportfolio%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://localhost/ngemlak/wp-json/wp/v2/pages/1215
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\wp\v2\pages\1215
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/wp/v2/pages/1216
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\wp\v2\pages\1216
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/wp/v2/pages/1217
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\wp\v2\pages\1217
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: http://localhost/ngemlak/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\localhost\ngemlak\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.1
+File Name: C:\Downloaded Web Sites\localhost\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300%2C700|Raleway:700&display=fallback&ver=3.9.1
+File Name: C:\Downloaded Web Sites\localhost\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
